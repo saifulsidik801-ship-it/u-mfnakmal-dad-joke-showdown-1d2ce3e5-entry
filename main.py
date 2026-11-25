@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Dad Joke Showdown — one dad joke, max 200 chars.
+# Writes the entry text to /output/entry.txt; judge scores the joke alone.
 """Dad Joke Showdown entry: write one dad joke to /output/entry.txt.
 
 The joke is a two-sentence setup/punchline. The gardener context makes the
